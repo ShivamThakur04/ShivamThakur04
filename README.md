@@ -1,6 +1,6 @@
 # 💫About Me :
 🔭 I’m currently working on my Skills.
-🌱 I’m currently learning more about Deep Learning and Web Development..
+🌱 I’m currently learning more about Deep Learning and Web Development.
 🤔 I’m looking for help with Exploring New Technologies.
 💬 Ask me about any tech-related stuff.
 📫 How to reach me: Email - shivampthakur@gmail.com
